@@ -5,6 +5,11 @@
   font-family: "Permanent Marker", cursive;
 }
 
+.links ul {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
 .links ul li {
   padding: 15px;
 }

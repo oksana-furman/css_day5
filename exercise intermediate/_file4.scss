@@ -1,5 +1,8 @@
 .links {
     ul {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
         li {
             padding: 15px;
             a {
