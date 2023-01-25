@@ -2,8 +2,6 @@ body {
     background-color: rgb(114, 191, 241);
 }
 
-#logo {}
-
 .navigation {
     background-color: rgb(29, 107, 158);
     display: flex;
